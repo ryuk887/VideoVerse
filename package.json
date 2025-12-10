@@ -1,0 +1,16 @@
+{
+  "name": "videoverse",
+  "version": "1.0.0",
+  "description": "It is a project like youtube and twitter mix.",
+  "keywords": [
+    "Backend",
+    "production"
+  ],
+  "license": "ISC",
+  "author": "Ayush Sharma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
